@@ -25,7 +25,7 @@ This project is for practice purposes to improve my skills in web development.
 ---
 
 ## 🌐 Live Demo
-Check out the live version here: [Amazon Clone](https://your-username.github.io/amazon-clone/)
+Check out the live version here: [Amazon Clone](https://your-aasheeshhh.github.io/Amazon-clone/)
 
 ---
 
