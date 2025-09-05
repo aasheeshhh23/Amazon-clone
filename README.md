@@ -25,11 +25,11 @@ This project is for practice purposes to improve my skills in web development.
 ---
 
 ## 🌐 Live Demo
-Check out the live version here: [Amazon Clone](https://your-aasheeshhh.github.io/Amazon-clone/)
+Check out the live version here: [Amazon Clone](https://http://127.0.0.1:5500/index.html)
 
 ---
 
 ## 📂 How to Run Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/amazon-clone.git
+   git clone https://http://127.0.0.1:5500/index.html
